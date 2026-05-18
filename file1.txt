@@ -1,3 +1,5 @@
 Hi!!!
 I am Sampreet Singh.
 I am learning git.
+I am also learning github.
+My goal is to master DSA and Java..
