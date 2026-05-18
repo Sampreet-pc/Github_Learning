@@ -3,3 +3,5 @@ I am Sampreet Singh.
 I am learning git.
 I am also learning github.
 My goal is to master DSA and Java..
+Java is a platform Independent language because of class file
+However jvm is platform dependent
